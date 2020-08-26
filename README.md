@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zee</h1>
 <h3 align="center">A genuine interest in the cloud-native landscape, Cloud Infrastructure and Kubernetes. Addicted to learning. Platform Engineer @jetstack</h3>
 
-- 💬 Ask me about **Cloud Infrastructure, Platform Engineering, Kubernetes**
+- 💬 Ask me about **Cloud Infrastructure, Security, Kubernetes, Devops + SRE**
 
 - 📫 How to reach me **zee@simplyzee.dev**
 
